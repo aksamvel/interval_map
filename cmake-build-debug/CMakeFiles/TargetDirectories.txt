@@ -1,0 +1,3 @@
+/home/samvel/prj/think-cell-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/samvel/prj/think-cell-test/cmake-build-debug/CMakeFiles/think_cell_test.dir
+/home/samvel/prj/think-cell-test/cmake-build-debug/CMakeFiles/edit_cache.dir
